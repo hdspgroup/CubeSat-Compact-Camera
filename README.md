@@ -3,7 +3,7 @@
 
 .len files used in the paper: "Hyperspectral Camera as Compact Payload Architecture for Remote Sensing Applications"
 
-[![DOI:10.1364/AO.463726](https://zenodo.org/badge/DOI/10.1364/AO.463726.svg)](https://doi.org/XXXXX)
+[![DOI:10.1364/AO.463726](https://zenodo.org/badge/DOI/10.1364/AO.463726.svg)](https://doi.org/10.1364/AO.476978)
 
 ## Abstract
 
@@ -22,5 +22,14 @@ If this repo is useful for your and you use it in an academic work, please consi
 
 
 ```bib
-bib_text_ref
+@article{Norato2023,
+  doi = {10.1364/ao.476978},
+  url = {https://doi.org/10.1364/ao.476978},
+  year = {2023},
+  month = jan,
+  publisher = {Optica Publishing Group},
+  author = {David Norato and Sergio Urrea and Hans Garcia and Julian Rodriguez and Elizabeth Martinez Ayala and Henry Arguello and Alberto Silva and Rafael Torres and Ignacio Acero and Francisco Hern{\'{a}}ndez and Lorena C{\'{a}}rdenas and Sonia Rinc{\'{o}}n},
+  title = {Hyperspectral Camera as Compact Payload Architecture for Remote Sensing Applications},
+  journal = {Applied Optics}
+}
 ```
